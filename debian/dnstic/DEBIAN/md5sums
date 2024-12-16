@@ -1,0 +1,11 @@
+d00b9152957439ce2e12979634a81b41  usr/bin/dnstic
+e59760deb91dc4461176205319a8c71a  usr/bin/dnstic.py
+04d3ae0ddc76eaeacdb93089aad28839  usr/lib/python3.11/dist-packages/dnstic-1.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3.11/dist-packages/dnstic-1.0.egg-info/dependency_links.txt
+ac8465a3e6fe4273b7318eb4821511e6  usr/lib/python3.11/dist-packages/dnstic-1.0.egg-info/entry_points.txt
+13ded91fa70450061c93ea51c2823df0  usr/lib/python3.11/dist-packages/dnstic-1.0.egg-info/requires.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3.11/dist-packages/dnstic-1.0.egg-info/top_level.txt
+9ca92bc64e972cb115c959c57c817051  usr/share/applications/dnstic.desktop
+0c7cce6cb8202efe8dc387fed1a1dc76  usr/share/doc/dnstic/changelog.Debian.gz
+2a2a36bbba108c6e9efeca4bf1d4601a  usr/share/doc/dnstic/copyright
+de09566d890ef52729dc42f9028cdfe5  usr/share/icons/hicolor/48x48/apps/dnsticlo.png

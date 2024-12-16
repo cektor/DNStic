@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=DNStic
+Comment=Dynamic DNS Tool with Interface for Linux
+Exec=sudo -E env XDG_RUNTIME_DIR=/tmp/runtime-root python3 /usr/bin/dnstic.py
+Icon=/usr/share/icons/hicolor/48x48/apps/dnsticlo.png
+Terminal=true
+Type=Application
+Categories=Utility;Network;
+
+Name[tr_TR]=DNStic

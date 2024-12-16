@@ -1,0 +1,9 @@
+dnstic.desktop
+dnsticlo.png
+setup.py
+dnstic.egg-info/PKG-INFO
+dnstic.egg-info/SOURCES.txt
+dnstic.egg-info/dependency_links.txt
+dnstic.egg-info/entry_points.txt
+dnstic.egg-info/requires.txt
+dnstic.egg-info/top_level.txt

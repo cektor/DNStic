@@ -1,0 +1,4 @@
+#!/bin/bash
+dnstic.py usr/bin/
+dnstic.desktop usr/share/applications/
+debian/dnsticlo.png /usr/share/icons/hicolor/48x48/apps/
