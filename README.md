@@ -3,7 +3,7 @@
 </a>
 
 # DNStic
-It is a tool that allows Linux users to change their DNS settings easily and quickly. Thanks to its user-friendly graphical interface, you can add, manage and apply different DNS addresses.
+Dynamic DNS Tool with Interface for Linux It is a tool that allows Linux users to change their DNS settings easily and quickly. Thanks to its user-friendly graphical interface, you can add, manage and apply different DNS addresses.
 
 <h1 align="center">DNStic Logo</h1>
 
